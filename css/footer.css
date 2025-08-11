@@ -1,0 +1,17 @@
+.footer-section {
+    height: 10vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    gap: 10px;
+    background-color: #FDECCE;
+}
+
+.footer-section p {
+    color: #6C1E28;
+    font-weight: 600;
+    font-size: 15px;
+}

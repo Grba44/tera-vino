@@ -1,0 +1,22 @@
+.hero-section {
+    height: 90vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: 
+    linear-gradient(#453f37, rgba(0,0,0,0.5)),
+    url("../img/HeroBackground.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.hero-section p {
+    font-size: 40px;
+    color: #6C1E28;
+    background-color: #FDECCE;
+    opacity: 50%;
+    padding: 8px 10px;
+    border-radius: 20px;
+    text-align: center;
+}
